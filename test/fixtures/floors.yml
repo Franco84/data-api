@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  property: one
+  floor_number: 
+  total_sq_feet: 
+  total_desks: 
+
+two:
+  property: two
+  floor_number: 
+  total_sq_feet: 
+  total_desks: 

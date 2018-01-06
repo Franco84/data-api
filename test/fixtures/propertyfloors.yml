@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  property: one
+  floor: one
+  start_date: 2018-01-05
+  end_date: 2018-01-05
+  total_sq_feet: 
+  total_desks: 
+
+two:
+  property: two
+  floor: two
+  start_date: 2018-01-05
+  end_date: 2018-01-05
+  total_sq_feet: 
+  total_desks: 
